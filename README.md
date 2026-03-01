@@ -18,6 +18,7 @@ This repository is a curated collection of the best AI agents, tools, and resour
 #### 24/7 Agents
 
 - [OpenClaw](https://github.com/openclaw/openclaw) - OpenClaw is an open-source, self-hosted, 24/7 AI agent platform that allows you to run AI agents continuously on your own infrastructure.
+- [OpenPaw](https://github.com/daxaur/openpaw) - An open-source CLI tool (`npx pawmode`) that turns Claude Code into a personal assistant with 38 skills including Telegram, Discord, Obsidian, and daily briefings. No daemon, no cloud.
 
 #### Coding Agents
 
