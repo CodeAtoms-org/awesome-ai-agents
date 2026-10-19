@@ -34,6 +34,7 @@ This repository is a curated collection of the best AI agents, tools, and resour
 
 #### Finance Agents
 
+- [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) - Local macOS CLI and stdio MCP payments with foreground owner approval for signing.
 - [Dexter](https://github.com/virattt/dexter) - Dexter is an autonomous financial research agent that thinks, plans, executes, and self-validates complex financial analysis tasks using real-time market data.
 
 #### Research & Sales Agents
