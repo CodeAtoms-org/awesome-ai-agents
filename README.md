@@ -26,6 +26,8 @@ This repository is a curated collection of the best AI agents, tools, and resour
 - [SWE-agent](https://github.com/SWE-agent/SWE-agent) - An agent developed by Princeton NLP that turns language models into software engineers capable of fixing real GitHub issues autonomously.
 - [Devika](https://github.com/stitionai/devika) - An agentic software engineer that understands high-level instructions, breaks them down into steps, researches, and writes code to achieve the objective.
 
+- [agent-qa](https://vostride.com) - AI app-testing agent with CLI/MCP access, persistent memory, validated self-improvement, and reviewable run evidence.
+
 #### Automation Agents
 
 - [Social Media Agent](https://github.com/langchain-ai/Social-Media-Agent) - A human-in-the-loop AI agent for creating and publishing social media content with control and accountability.
